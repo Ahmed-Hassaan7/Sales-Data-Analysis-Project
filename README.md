@@ -23,19 +23,19 @@ The primary goal of this project is to analyze the 'Superstore' sales dataset to
 
 ### Page 1: Executive Summary
 *Provides a high-level overview of the business's overall performance.*
-![Executive Summary](Screenshot-2025-10-18-162908.png)
+![Executive Summary](OverView.png)
 
 ### Page 2: Customer Analysis
 *A deep dive into customer segments and identifying top customers.*
-![Customer Analysis](Screenshot-2025-10-18-162925.png)
+![Customer Analysis](Customers.png)
 
 ### Page 3: Product Analysis
 *Analyzes sales performance across different product categories and sub-categories.*
-![Product Analysis](Screenshot-2025-10-18-162942.png)
+![Product Analysis](Category.png)
 
 ### Page 4: Geographic & Shipping Analysis
 *Visualizes sales by state and analyzes the efficiency of different shipping modes.*
-![Geographic Analysis](Screenshot-2025-10-18-162954.png)
+![Geographic Analysis](Logistics-&-Shipping.png)
 
 ---
 
