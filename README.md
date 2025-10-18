@@ -27,15 +27,15 @@ The primary goal of this project is to analyze the 'Superstore' sales dataset to
 
 ### Page 2: Customer Analysis
 *A deep dive into customer segments and identifying top customers.*
-![Customer Analysis](Customers.png)
+![Customer Analysis](https://github.com/Ahmed-Hassaan7/Sales-Data-Analysis-Project/blob/main/Sales-AnalysisProject/Customers.png)
 
 ### Page 3: Product Analysis
 *Analyzes sales performance across different product categories and sub-categories.*
-![Product Analysis](Category.png)
+![Product Analysis](https://github.com/Ahmed-Hassaan7/Sales-Data-Analysis-Project/blob/main/Sales-AnalysisProject/Category.png)
 
 ### Page 4: Geographic & Shipping Analysis
 *Visualizes sales by state and analyzes the efficiency of different shipping modes.*
-![Geographic Analysis](Logistics-&-Shipping.png)
+![Geographic Analysis](https://github.com/Ahmed-Hassaan7/Sales-Data-Analysis-Project/blob/main/Sales-AnalysisProject/Logistics-%26-Shipping.png)
 
 ---
 
