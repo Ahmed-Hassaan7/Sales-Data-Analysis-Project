@@ -23,7 +23,7 @@ The primary goal of this project is to analyze the 'Superstore' sales dataset to
 
 ### Page 1: Executive Summary
 *Provides a high-level overview of the business's overall performance.*
-![Executive Summary](OverView.png)
+![Executive Summary](https://github.com/Ahmed-Hassaan7/Sales-Data-Analysis-Project/blob/main/Sales-AnalysisProject/OverView.png)
 
 ### Page 2: Customer Analysis
 *A deep dive into customer segments and identifying top customers.*
