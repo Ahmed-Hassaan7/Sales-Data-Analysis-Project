@@ -1,4 +1,4 @@
-# Superstore Sales Analysis Project
+# Retail Business Intelligence Dashboard
 
 ## 1. Project Objective
 The primary goal of this project is to analyze the 'Superstore' sales dataset to derive actionable insights. The analysis focuses on identifying key performance indicators (KPIs), understanding customer behavior, and evaluating sales performance across different product categories and geographical regions.
